@@ -5,7 +5,7 @@ The Credit Card Default Prediction project aims to develop a robust predictive m
 - Got 88.86% Accuracy on this Project from Random Forest Regressor
 #
 
-[GitHub Project Link](https://github.com/Siddharth-Singh-Rakwal/Flight-Ticket-Prices-Prediction)
+[GitHub Project Link](https://github.com/Siddharth-Singh-Rakwal/Credit-Card-Default-Prediction)
 
 [LinkedIN Post Link](https://www.linkedin.com/posts/siddharth-singh-rakwal-b385a8263_project-machinelearning-dataanalytics-activity-7072523429257580544-Iaeb?utm_source=share&utm_medium=member_desktop)
 
