@@ -34,10 +34,10 @@ def predict():
     df = pd.DataFrame([input_features], columns=features_name)
     prediction = model.predict(df)[0]
 
-    if prediction == 0:
-        res_val = "The Credit Card Holder is NOT a DEFAULTER"
-    else:
+    if prediction == 1:
         res_val = "The Credit Card Holder is a DEFAULTER"
+    else:
+        res_val = "The Credit Card Holder is NOT a DEFAULTER"
 
     return render_template('index.html', prediction_text='Prediction: {}'.format(res_val))
 
