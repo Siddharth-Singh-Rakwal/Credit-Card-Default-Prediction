@@ -7,7 +7,7 @@ The Credit Card Default Prediction project aims to develop a robust predictive m
 
 [GitHub Project Link](https://github.com/Siddharth-Singh-Rakwal/Credit-Card-Default-Prediction)
 
-[LinkedIN Post Link](https://www.linkedin.com/posts/siddharth-singh-rakwal-b385a8263_project-machinelearning-dataanalytics-activity-7072523429257580544-Iaeb?utm_source=share&utm_medium=member_desktop)
+[LinkedIN Post Link](https://www.linkedin.com/posts/siddharth-singh-rakwal-b385a8263_project-algorithms-data-activity-7081225967054000128-uFFb?utm_source=share&utm_medium=member_desktop)
 
 #
 
